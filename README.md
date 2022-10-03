@@ -12,6 +12,7 @@ LoRaNet is a secure master-slave architecture based on LoRa-MAC.
 - Select the downloaded zip file
 
 Install its dependencies:
+- [iono](https://github.com/sfera-labs/iono)
 - [arduino-LoRa](https://github.com/sfera-labs/arduino-LoRa)
 - [arduino-lora-net](https://github.com/sfera-labs/arduino-lora-net)
 
